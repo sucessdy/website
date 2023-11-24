@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "image": "/demos/houseq.jpg",
+    "title": "In Good Taste: Mark Finlay Architects and Interiors",
+    "by": "ALEX SMITH",
+    "date": "Dec 06 2022",
+    "date2": ["Dec 2022", "06"]
+  },
+  {
+    "id": 2,
+    "image": "/demos/house24.png",
+    "title": "Five Things You Should Know About Modern Furniture.",
+    "by": "ALEX SMITH",
+    "date": "Dec 06 2022",
+    "date2": ["Dec 2022", "06"]
+  },
+  {
+    "id": 3,
+    "image": "/demos/house35.png",
+    "title": "What it's like to be an interior designer?",
+    "by": "ALEX SMITH",
+    "date": "Dec 06 2022",
+    "date2": ["Dec 2022", "06"]
+  }
+]
